@@ -1,9 +1,35 @@
 # GitHub-Protfolio
 Portfolio for my projects
 
-## Pokedex
+## Fruitia
 
-https://github.com/Armandelij/Pokedex
+https://github.com/Armandelij/Fruitia/tree/main
+
+![Spash Screen](https://user-images.githubusercontent.com/64448202/220001123-1f76453d-fca5-4231-b86d-a2d906d8ffd3.png) || ![Signup](https://user-images.githubusercontent.com/64448202/220001160-2dbb5320-10eb-442d-b4a3-114fd944b420.png)
+
+https://user-images.githubusercontent.com/64448202/220001212-f96b9b37-e2ca-4b70-9f3b-0a99577f22a3.MP4
+
+
+## App Icon (UI)
+https://github.com/Armandelij/UiDesigns/blob/main/*AppIcon.md 
+
+![App Icon1](https://user-images.githubusercontent.com/64448202/212968098-64cafcd1-b775-424e-8f5b-db806b5b4e7f.png)
+
+
+
+
+
+## CarPicker
+
+https://github.com/Armandelij/CarPickerApp/edit/main/README.md
+
+https://user-images.githubusercontent.com/64448202/222935305-3091f993-2155-4554-b569-a539ff7d729b.MP4
+
+
+
+
+## Pokedex
+ https://github.com/Armandelij/Pokedex
 
 https://user-images.githubusercontent.com/64448202/172455294-79b6bb47-fa14-4dc6-a05a-a91b194e3f3e.mov
 
